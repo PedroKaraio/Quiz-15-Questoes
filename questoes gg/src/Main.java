@@ -93,7 +93,7 @@ public class Main {
         questoes[8].correta = "D";
 
         questoes[9] = new Questao();
-        questoes[9].pergunta = "Qual é o desejo que Goku faz para as Dragon Balls no final da saga de Majin Buu?";
+        questoes[9].pergunta = "10 Pergunta Qual é o desejo que Goku faz para as Dragon Balls no final da saga de Majin Buu?";
         questoes[9].opcaoA = "Reviver todos que o Buu matou";
         questoes[9].opcaoB = "Ser o Sayajin Mais Forte";
         questoes[9].opcaoC = "Ser Imortal";
