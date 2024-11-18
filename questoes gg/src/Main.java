@@ -10,10 +10,10 @@ public class Main {
         // Perguntas
         Questao[] questoes = new Questao[total];
      System.out.println("Brenno Pimenta");
-            System.out.println("Alfredo Nasser");
+            System.out.println("Centro Universitário Alfredo Nasser");
             System.out.println("Pedro Victor Soares Teófilo");
             System.out.println("Bem-vindo ao Quiz sobre Dragon Ball!");
-            System.out.println("Responda 15 perguntas sobre o tema.")
+            System.out.println("Responda 15 perguntas sobre o tema.");
         questoes[0] = new Questao();
         questoes[0].pergunta = "1 Pergunta Quem ensinou o Kamehameha para o Goku?";
         questoes[0].opcaoA = "Goten";
