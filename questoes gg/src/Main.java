@@ -12,7 +12,7 @@ public class Main {
 
         // Definindo as questões
         questoes[0] = new Questao();
-        questoes[0].pergunta = "Quem ensinou o Kamehameha para o Goku?";
+        questoes[0].pergunta = "1 Pergunta Quem ensinou o Kamehameha para o Goku?";
         questoes[0].opcaoA = "Goten";
         questoes[0].opcaoB = "Mestre Kame";
         questoes[0].opcaoC = "Vegeta";
