@@ -120,7 +120,7 @@ public class Main {
         questoes[11].correta = "D";
 
         questoes[12] = new Questao();
-        questoes[12].pergunta = "Quem voltou do futuro para ajudar os Guerreiros Z?";
+        questoes[12].pergunta = "13 Pergunta Quem voltou do futuro para ajudar os Guerreiros Z?";
         questoes[12].opcaoA = "Trunks";
         questoes[12].opcaoB = "Piccolo";
         questoes[12].opcaoC = "Goku";
@@ -129,7 +129,7 @@ public class Main {
         questoes[12].correta = "A";
 
         questoes[13] = new Questao();
-        questoes[13].pergunta = "Qual o verdadeiro nome de Goku Black?";
+        questoes[13].pergunta = "14 Pergunta Qual o verdadeiro nome de Goku Black?";
         questoes[13].opcaoA = "Goku Preto";
         questoes[13].opcaoB = "Zamasu";
         questoes[13].opcaoC = "Supremo Senhor Kaio";
@@ -138,7 +138,7 @@ public class Main {
         questoes[13].correta = "B";
 
         questoes[14] = new Questao();
-        questoes[14].pergunta = "Quem é o Super Sayajin lendário?";
+        questoes[14].pergunta = "15 Pergunta Quem é o Super Sayajin lendário?";
         questoes[14].opcaoA = "Goku";
         questoes[14].opcaoB = "Brolly";
         questoes[14].opcaoC = "Bradock";
