@@ -39,7 +39,7 @@ public class Main {
         questoes[2].correta = "E";
 
         questoes[3] = new Questao();
-        questoes[3].pergunta = "Qual é o nome do planeta natal de Goku?";
+        questoes[3].pergunta = "4 Pergunta Qual é o nome do planeta natal de Goku?";
         questoes[3].opcaoA = "Namekusei";
         questoes[3].opcaoB = "Terra";
         questoes[3].opcaoC = "Vegeta";
