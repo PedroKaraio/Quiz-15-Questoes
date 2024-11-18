@@ -48,7 +48,7 @@ public class Main {
         questoes[3].correta = "D";
 
         questoes[4] = new Questao();
-        questoes[4].pergunta = "Quem é o criador da Dragon Ball?";
+        questoes[4].pergunta = "5 Pergunta Quem é o criador da Dragon Ball?";
         questoes[4].opcaoA = "Akira Toriyama";
         questoes[4].opcaoB = "Masashi Kishimoto";
         questoes[4].opcaoC = "Jotaro Kujo";
@@ -57,7 +57,7 @@ public class Main {
         questoes[4].correta = "A";
 
         questoes[5] = new Questao();
-        questoes[5].pergunta = "Qual é a técnica que Goku aprende com o Kaio-shin?";
+        questoes[5].pergunta = "6 Pergunta Qual é a técnica que Goku aprende com o Kaio-shin?";
         questoes[5].opcaoA = "Genki Dama";
         questoes[5].opcaoB = "Final Flash";
         questoes[5].opcaoC = "Choque do Trovão";
@@ -66,7 +66,7 @@ public class Main {
         questoes[5].correta = "A";
 
         questoes[6] = new Questao();
-        questoes[6].pergunta = "Qual dos seguintes personagens é um vilão icônico da série?";
+        questoes[6].pergunta = "7 Pergunta Qual dos seguintes personagens é um vilão icônico da série?";
         questoes[6].opcaoA = "Freeza";
         questoes[6].opcaoB = "Oozaru";
         questoes[6].opcaoC = "Mister Satan";
@@ -75,7 +75,7 @@ public class Main {
         questoes[6].correta = "A";
 
         questoes[7] = new Questao();
-        questoes[7].pergunta = "Qual é a transformação que permite ao Goku acessar o poder dos Deuses?";
+        questoes[7].pergunta = "8 Pergunta Qual é a transformação que permite ao Goku acessar o poder dos Deuses?";
         questoes[7].opcaoA = "Super Saiyajin 3";
         questoes[7].opcaoB = "Super Saiyajin 1";
         questoes[7].opcaoC = "Super Saiyajin God";
