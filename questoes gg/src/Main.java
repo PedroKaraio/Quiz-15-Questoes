@@ -102,7 +102,7 @@ public class Main {
         questoes[9].correta = "A";
 
         questoes[10] = new Questao();
-        questoes[10].pergunta = "Qual a nova animação produzida pela Netflix de Dragon Ball?";
+        questoes[10].pergunta = "11 Pergunta Qual a nova animação produzida pela Netflix de Dragon Ball?";
         questoes[10].opcaoA = "Dragon Ball Xenoverse";
         questoes[10].opcaoB = "Dragon Ball Daima";
         questoes[10].opcaoC = "Super Mega Dragon ball";
@@ -111,7 +111,7 @@ public class Main {
         questoes[10].correta = "B";
 
         questoes[11] = new Questao();
-        questoes[11].pergunta = "Quem é o mestre de Kuririn?";
+        questoes[11].pergunta = "12 Pergunta Quem é o mestre de Kuririn?";
         questoes[11].opcaoA = "Androide 18";
         questoes[11].opcaoB = "Bills";
         questoes[11].opcaoC = "Yamcha";
