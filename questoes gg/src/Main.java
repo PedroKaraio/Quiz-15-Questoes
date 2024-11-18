@@ -21,7 +21,7 @@ public class Main {
         questoes[0].correta = "B";
 
         questoes[1] = new Questao();
-        questoes[1].pergunta = "Quem cortou a cauda de Goku quando ele era pequeno?";
+        questoes[1].pergunta = "2 Pergunta Quem cortou a cauda de Goku quando ele era pequeno?";
         questoes[1].opcaoA = "Pual";
         questoes[1].opcaoB = "Bulma";
         questoes[1].opcaoC = "Radiz";
@@ -30,7 +30,7 @@ public class Main {
         questoes[1].correta = "A";
 
         questoes[2] = new Questao();
-        questoes[2].pergunta = "Qual o nome do pai de Goku?";
+        questoes[2].pergunta = "3 Pergunta Qual o nome do pai de Goku?";
         questoes[2].opcaoA = "Krulian";
         questoes[2].opcaoB = "Zeno";
         questoes[2].opcaoC = "Majin Boo";
